@@ -1,2 +1,1 @@
-#yixiangcloud
-＃this is a test store
+#It is used to test
